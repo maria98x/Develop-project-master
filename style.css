@@ -272,15 +272,10 @@ display: flex;
   
 
 }
-.website{
+.footer-text{
   padding: 0 80px 0 80px;
 }
-.terms{
-  padding: 0pc 80px 35px 80px;
-}
-.findus{
-  padding: 0 80px 80px 80px;
-}
+
 .inner-list{
   padding-left: 10px;
   list-style-type: none;
