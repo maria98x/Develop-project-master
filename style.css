@@ -250,14 +250,14 @@ border-radius: 5px;
   display: flex;
   background-color: rgba(147, 117, 255, 0.1);;
   align-items: center;
-  
+  justify-content: space-around;
+ 
   
   
   
 }
 .footer img{
   padding: 30px;
-  
   max-width: 170px;
   height: auto;
   
@@ -283,6 +283,19 @@ display: flex;
 }
 .inner-list{
   padding-left: 10px;
+  list-style-type: none;
+  font-weight: bold;
+  line-height: 20pt;
+  
+  
+  
+}
+.inner-list a{
+  color: #0c1753;
+  text-decoration: none;
+}
+#social-media{
+  display: flex;
   color: #0c1753;
 }
 .icons{
